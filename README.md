@@ -1,7 +1,7 @@
 # 💘 name-destiny 🏹
 **Korean name compatibility visualizer — interleaved names → stroke-based reduction → final 2-digit score with explanation. (For fun)**
 
-> 한글 이름을 교차 배열 → 자모 획수 기반 축약으로 2자리 점수를 만들고, SVG 애니메이션으로 계산 과정을 시각화합니다.
+> 한글 이름을 교차 배열 → 자모 획수 기반 축약으로 2자리 점수를 만들고, SVG 애니메이션으로 계산 과정을 시각화합니다.  
 > 결과(두 자리)와 마지막 자리 기반 해설을 제공합니다.
 
   
@@ -62,4 +62,5 @@ name-destiny/
 - 한글 외 문자는 계산에서 제외됩니다(한글 음절 필터 적용).
 
 - 폰트 환경에 따라 미세한 렌더링 차이가 날 수 있습니다.
+
 
